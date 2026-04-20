@@ -1,16 +1,13 @@
-## Hi there 👋
+**Hey there!** 👋
 
-<!--
-**tayyab21704/tayyab21704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tayyab**, a software engineer based in India. 
 
-Here are some ideas to get you started:
+I have a huge techstack with many projects recently working on anything that comes to mind. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **C/C++, Python, and LangGraph**. My favorite tools are AWS, Azure, and Docker. 
+
+I've worked on many python/agentic projects but i still hold expertise in c++,cloud infra and backend.
+
+**Fun Facts:**
+* I dabble in game development on the side.
+* I once hosted a 260+ player VR multiplayer event with zero lag just by hyper-optimizing the CPU profiling and memory management!
